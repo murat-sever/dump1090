@@ -1,0 +1,5 @@
+Install prerequities: 
+sudo apt-get install librtlsdr0 librtlsdr-dev
+
+run the app
+./dump1090 --interactive --net --metric
